@@ -22,6 +22,43 @@
 Results-driven Backend .NET Developer with 2.7+ years of experience building, optimizing, and integrating enterprise-grade packaged applications. Expertise in ASP.NET Core Web API, SQL Server, Entity Framework Core, and RESTful services. Hands-on experience integrating Azure OpenAI for GenAI features that reduce manual effort and improve business efficiency.
 
 ---
+## 🛠 Tech Stack
+
+### 🔹 Backend & API Development
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core%20Web%20API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
+</p>
+
+### 🔹 Database & Data Access
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge"/>
+</p>
+
+### 🔹 Cloud & GenAI
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge"/>
+</p>
+
+### 🔹 API Documentation & Testing
+<p>
+  <img src="https://img.shields.io/badge/Swagger%20(OpenAPI)-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+### 🔹 DevOps & Version Control
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+</p>
+
+----
 
 ## Skills
 
